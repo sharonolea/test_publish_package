@@ -1,6 +1,6 @@
 {
-  "name": "@sharonolea/test_publish_package",
-  "version": "1.0.1",
+  "name": "@sharonolea/test_publish_package/baobao",
+  "version": "2.0.0",
   "description": "my baobao package",
   "main": "index.js",
   "scripts": {
