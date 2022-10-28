@@ -1,5 +1,5 @@
 {
-  "name": "baobao",
+  "name": "@sharonolea/test_publish_package",
   "version": "1.0.1",
   "description": "my baobao package",
   "main": "index.js",
