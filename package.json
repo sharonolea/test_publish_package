@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/sharonolea/test_publish_package#readme",
   "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+    "@sharonolea:registry": "https://npm.pkg.github.com"
   }
 }
